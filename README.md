@@ -408,7 +408,25 @@ cp -r data/ backup-$(date +%Y%m%d)
 👨💻 Autor
 
 Isaac Esteban Haro Torres
-Senior AI & Automation Engineer
+@ieharo1
+
+🚀 Fullstack Developer | DevOps Jr | SCRUM Master
+💻 Tech Stack: PHP (Laravel) · Python (Django) · React · Angular · JavaScript
+🗄️ Databases: SQL · MongoDB · Firebase
+🎓 MSc Big Data
+
+📍 TST SOLUTIONS · Ecuador, Quito
+🌐 Conecta conmigo:
+
+    Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+    GitHub: github.com/ieharo1
+
+    LinkedIn: linkedin.com/in/isaac-haro
+
+    WhatsApp: +593 98 805 5517
+
+    Twitter/Instagram: @isaac.haro3 / @isaac.h001
 
 📄 Licencia
 
