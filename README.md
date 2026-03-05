@@ -178,3 +178,4 @@ npm install
 ## 📄 Licencia
 
 © 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
